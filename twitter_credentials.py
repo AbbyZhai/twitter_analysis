@@ -1,5 +1,5 @@
 # user credentials to access Twitter API
-CONSUMER_KEY = 'gzAxxplT1jCp3ERYzvlKWoHiB'
-CONSUMER_SECRET = 'E9zeqsaE7K6RisdaCQgBjNJzfpomUIlipS72LKt11nCy52a52M'
-ACCESS_TOKEN = '1012753258694053888-zmtWuEWfGdpvFUAlCbzvekfWNm1T20'
-ACCESS_TOKEN_SECRET= 'IvaeozCrwM4v5ydtpxJVJyw5O4mhALoZzEER3NOEsV5dm'
+CONSUMER_KEY = 'inset your key'
+CONSUMER_SECRET = 'inset your key secret'
+ACCESS_TOKEN = 'inset your token'
+ACCESS_TOKEN_SECRET= 'inset your token secret'
